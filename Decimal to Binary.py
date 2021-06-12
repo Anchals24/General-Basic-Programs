@@ -1,3 +1,12 @@
+
+#Generate binary of the numbers from 1 to N......
+
+#Example: If N = 2
+"""
+Output : ["1" , "10"]
+
+"""
+
 Num = 1
 N = int(input())
 Ans = []
