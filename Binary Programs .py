@@ -36,7 +36,7 @@ for i in range(leng):
 print(summ)  
 
 
-#OR 
+#OR Simple method
 
 Powers = []
 for x in range(31):
