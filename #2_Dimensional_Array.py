@@ -7,6 +7,8 @@ for m in M:
         print(c, end= " ")
     print()
 
+#Complexity : O(M*m) 
+
 #How to take a 2D Array as an input?
 
 #row 14 means n = number of rows.
