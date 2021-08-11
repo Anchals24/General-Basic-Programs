@@ -29,7 +29,7 @@ print(Reverselist1)
 
 #Method3 : Swapping the numbers (len(N//2))
 #>> update the existing list
-"""MOST EFFICIENT APPRAOCH"""
+
 
 List = [23 , 12, 11, 10 , 76]
 mid = len(List) // 2
